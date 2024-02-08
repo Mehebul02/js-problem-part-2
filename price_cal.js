@@ -7,13 +7,11 @@ function priceShopping(shirtQuantity,pantQuantity,shoeQuantity){
     const totalShoe= shoePrice * shirtQuantity;
     totalPrice =totalShirt + totalShirt + totalShoe;
     return totalPrice;
-
-
 }
-const shopping =priceShopping(1,0,0);
+const shopping =priceShopping(2,1,1);
 console.log(shopping);
 
-function studyTour(bus,breckfirst,dupureKhabar,ratreKhabar){
-    const busVara =50000;
+// function studyTour(bus,breckfirst,dupureKhabar,ratreKhabar){
+//     const busVara =50000;
     
-}
+// }
