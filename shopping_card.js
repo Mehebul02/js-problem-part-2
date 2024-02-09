@@ -2,7 +2,7 @@ const products =[
     { name : "shirt", price:600,quantity:5},
     { name : "pant", price:1200,quantity:3},
     { name : "shoe", price:3200,quantity:2},
-    { name : "cap", price:230,quantity:4},
+    { name : "cap", price:230,quantity:7},
     { name : "laptop Stand", price:430,quantity:3},
 ]
 
